@@ -1,4 +1,3 @@
-# Bellabeat-Case-Study
 # Bellabeat Case Study - Smart Device Analysis
 
 ## 📌 Project Overview
@@ -21,5 +20,5 @@ This project analyzes smart device usage data to provide insights for Bellabeat�
 - Smart device usage trends can guide product improvements.
 
 ## 🔗 Resources
-- [Kaggle Dataset](https://www.kaggle.com/your-dataset-url)
-- [Google Slides Presentation](your-Google-Slides-link)
+- [Kaggle Dataset](https://www.kaggle.com/[your-dataset-url](https://www.kaggle.com/datasets/ceciliaokello/bellabeat-smart-device-usage-dataset))
+- [Google Slides Presentation]([your-Google-Slides-link](https://docs.google.com/presentation/d/1ZFxWadMEPZqdsw-fAoI0FlF5ClG1TCDvSYyV-fIUTsI/edit?usp=sharing))
